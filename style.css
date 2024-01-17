@@ -16,7 +16,7 @@ body {
     height: 250px;
     width: 350px;
     border-radius: 16px;
-    background: black;
+    background: blue;
     flex-direction: column;
     display: flex;
     align-items: center;
