@@ -1,5 +1,5 @@
 body {
-    background-color: #1d1c47;
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@ body {
 
 .box {
     font-size: 20px;
-    color: #fff;
+    color: white;
     height: 250px;
     width: 350px;
     border-radius: 16px;
@@ -35,6 +35,6 @@ button {
     width: 50px;
     background: #fff;
     border-radius: 5px;
-    color: #3d23ff;
+    color: white;
     font-weight: 600;
 }
